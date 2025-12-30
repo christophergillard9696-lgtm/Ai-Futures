@@ -1,8 +1,12 @@
 # Ai-Futures Report
 # 🔭 Features:
 
-
-
+- Sentiment Analysis
+- Ai Market Analysis
+- Geographic Buisiness Clustering Model
+- Current Market By the Numbers
+- Regressional Analysis on future market capitalization, spend and investment
+- Outlooks on the worlds lrgest Ai models (Grok/GPT/Copilot/Claude)
 
           
 # 🔩 Technologies:
