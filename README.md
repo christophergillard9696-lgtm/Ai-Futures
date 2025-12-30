@@ -20,9 +20,9 @@
 
 
 # ♟️ The Process:
-There's a lot of murmuring, fear & conjecture surrounding the current Ai market bubble. Strikingly this shares a lot of similarities to the 1990s .com tech bubble, so the question to ask is: Which companies will be setting the standards for this new economy? I specifically set out to answer this question to strengthen my own investment portfolio. As a start, I wanted to really gain an understanding on the current outlook for Ai companies and use cases in an attempt to predict their longevity within finance, design, coding, entertainment, and any other markets that crossed my path. 
+There's a lot of murmuring, fear & conjecture surrounding the current Ai market bubble, strikingly this shares a lot of similarities to the 1990s .com tech bubble. So the question to ask is: Which companies will be setting the standards and hoarding the wealth of this new economy after the market crashes? 
 
-- The Method: Scraping Social media platforms, Annual buisiness/gov reports, Research papers, and Geographic data to narrow sentiments on market longevity/worth and build a tell on the positioning & flow of capital in this global Ai driven market.
+- The Method: Scraping Social media platforms, Annual buisiness/gov reports, Research papers, and Geographic data to narrow sentiments on market longevity/worth and build a tell on the positioning & flow of capital within the market sectors of finance, design, coding, technologies, and entertainment.
 
 
 # 🎬 Preview:
