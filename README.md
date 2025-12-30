@@ -6,7 +6,7 @@
 - Geographic Buisiness Clustering Model
 - Current Market By the Numbers
 - Regressional Analysis on future market capitalization, spend and investment
-- Outlooks on the worlds lrgest Ai models (Grok/GPT/Copilot/Claude)
+- Outlooks on the worlds top Ai agents (Grok/GPT/Copilot/Claude)
 
           
 # 🔩 Technologies:
