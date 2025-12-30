@@ -4,7 +4,6 @@
 - Sentiment Analysis
 - Global Market Analysis
 - Geographic Buisiness Clustering
-- Regressional Analysis on future market capitalization, spend and investment
 - Predictive Modeling
 - Outlooks on the worlds top Ai agents (Grok/GPT/Copilot/Claude)
 
