@@ -5,6 +5,7 @@
 - Global Market Analysis
 - Geographic Buisiness Clustering
 - Predictive Modeling
+- Identification of key players in the new economy
 - Outlooks on the worlds top Ai agents (Grok/GPT/Copilot/Claude)
 
           
