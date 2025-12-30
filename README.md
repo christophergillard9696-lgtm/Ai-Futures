@@ -22,3 +22,6 @@ I wanted to really gain an understanding
 
 
 # 🎬 Preview:
+
+
+# 🗳️ Lessons and Improvements:
