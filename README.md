@@ -20,7 +20,7 @@
 
 
 # ♟️ The Process:
-There's a lot of murmuring, fear & conjecture surrounding the current Ai market bubble, strikingly this shares a lot of similarities to the 1990s .com tech bubble. So the question to ask is: Which companies will be setting the standards and hoarding the wealth of this new economy after the market crashes? 
+There's a lot of murmuring, fear & conjecture surrounding the current Ai market bubble, strikingly this shares a lot of similarities to the 1990s .com tech bubble- so the question to ask is: Which companies will be setting the standards and hoarding the wealth of this new economy after the market crashes? 
 
 - The Method: Scraping Social media platforms, investment indexes, annual buisiness/gov reports, research papers, and geographic data to narrow sentiments on market longevity/worth and build a tell on the positioning & flow of capital within the market sectors of finance, design, service, coding, technology, and entertainment.
 
