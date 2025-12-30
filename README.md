@@ -8,7 +8,7 @@
 # 🔩 Technologies:
 
 -  Google Sheets/Excel
--  Python/pyAudio/Beautifulsoup/Pandas/R
+-  Python/Beautifulsoup/Pandas/R
 -  Power Bi 
 -  DAX
 -  SQL
