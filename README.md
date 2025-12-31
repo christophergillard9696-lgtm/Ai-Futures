@@ -1,4 +1,9 @@
-# Ai-Futures Report
+![Ai Futures](https://github.com/user-attachments/assets/3da9ce9a-dbc4-4ab9-b4e9-25ab8920bcac)
+
+
+
+
+
 # 🔭 Features:
 
 - Sentiment Analysis
