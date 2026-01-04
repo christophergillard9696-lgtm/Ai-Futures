@@ -1,5 +1,4 @@
-![Ai Futures](https://github.com/user-attachments/assets/3da9ce9a-dbc4-4ab9-b4e9-25ab8920bcac)
-
+![Ai Futures](https://github.com/user-attachments/assets/859662dc-82ed-4ad5-a3f6-271f60a4c1ad)
 
 
 
